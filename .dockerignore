@@ -1,0 +1,8 @@
+instance
+**/*.pyc
+**/.env
+**/venv
+**/.aws
+**/.ssh
+**/.DS_Store
+README.md
